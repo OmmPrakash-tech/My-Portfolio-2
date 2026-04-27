@@ -13,8 +13,8 @@ export default function ThreeBackground() {
     const COLORS = ['rgba(0,212,255,', 'rgba(124,58,255,', 'rgba(0,255,148,']
 
     function resize() {
-      W = c.width = window.innerWidth
-      H = c.height = window.innerHeight
+      W = c!.width = window.innerWidth
+      H = c!.height = window.innerHeight
     }
     resize()
     window.addEventListener('resize', resize)
