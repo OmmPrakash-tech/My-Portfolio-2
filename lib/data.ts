@@ -104,7 +104,7 @@ export const CERTS = [
 export const CONTACT_LINKS = [
   { ico: '✉️', label: 'Email', val: 'ommprakashdebata6@gmail.com', href: 'mailto:ommprakashdebata6@gmail.com' },
   { ico: '⌥', label: 'GitHub', val: 'github.com/OmmPrakash-tech', href: 'https://github.com/OmmPrakash-tech' },
-  { ico: 'in', label: 'LinkedIn', val: 'omm-prakash-debata', href: 'https://linkedin.com/in/omm-prakash-debata' },
+  { ico: 'in', label: 'LinkedIn', val: 'omm-prakash-debata', href: 'https://www.linkedin.com/in/omm-prakash-debata-bb982627b/' },
   { ico: '📞', label: 'Phone', val: '+91 99385 30446', href: 'tel:+919938530446' },
 ]
 
